@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">resPIRA</string>
+    <string name="aumentar_zoom">Aumentar zoom</string>
+    <string name="diminuir_zoom">Diminuir zoom</string>
+    <string name="todo">TODO</string>
+    <string name="resetar">Resetar</string>
+</resources>
